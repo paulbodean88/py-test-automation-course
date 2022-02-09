@@ -20,5 +20,3 @@ assert element.get_attribute('id') == 'london'
 
 driver.execute_script("document.getElementById('movember').click();")
 time.sleep(2)
-
-"".up
